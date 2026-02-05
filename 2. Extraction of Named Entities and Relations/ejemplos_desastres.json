@@ -1,0 +1,185 @@
+[
+    {
+        "input": "Temblor en México HOY: de cuánto fue el terremoto en Chiapas este martes 18 de marzo El Servicio Sismológico Nacional ha señalado de un nuevo sismo registrado este martes en México Conoce cuál es la ciudad afectada y de cuánto ha sido su magnitud. En el transcurso de este martes, 18 de marzo de 2025, el Servicio Sismológico Nacional de México (SSN) anunció sobre un nuevo sismo en el país. En esta oportunidad, el movimiento telúrico se registró en Chiapas a las 11.36 horas y ha tenido una magnitud de 4.0 en la escala de Richter. El núcleo de este fenómeno natural se reportó a 60 km al noroeste de Cintalapa, con una profundidad de 137.5 kilómetros, latitud de 16.976° y una longitud de -94.202°, según la información preliminar compartida por las entidades.",
+        "output": [
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "ocurrió en",
+                "tail": "Chiapas",
+                "tail_type": "Lugar"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "tuvo magnitud de",
+                "tail": "4.0",
+                "tail_type": "Escala"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "tuvo profundidad de",
+                "tail": "137.5 km",
+                "tail_type": "Distancia"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "tuvo latitud de",
+                "tail": "16.976°",
+                "tail_type": "Coordenada"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "tuvo longitud de",
+                "tail": "-94.202°",
+                "tail_type": "Coordenada"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "afectó a",
+                "tail": "Cintalapa",
+                "tail_type": "Lugar"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "ocurrió en",
+                "tail": "México",
+                "tail_type": "Lugar"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "ocurrió en",
+                "tail": "18 de marzo de 2025",
+                "tail_type": "Fecha"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "ocurrió a las",
+                "tail": "11.36 horas",
+                "tail_type": "Hora"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "fue reportado por",
+                "tail": "Servicio Sismológico Nacional de México",
+                "tail_type": "Organización"
+            }
+        ]
+    },
+    {
+        "input": "Sismo en Ciudad de México: Un fuerte terremoto de magnitud 6.5 sacudió la capital mexicana este jueves 20 de marzo de 2025. El Servicio Sismológico Nacional informó que el epicentro se localizó a 10 km al suroeste de la alcaldía de Tlalpan, con una profundidad de 70 kilómetros. El movimiento telúrico se sintió en varias partes de la ciudad y causó daños materiales en algunas edificaciones. Las autoridades están evaluando la situación y no se han reportado víctimas hasta el momento.",
+        "output": [
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "ocurrió en",
+                "tail": "Ciudad de México",
+                "tail_type": "Lugar"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "tuvo magnitud de",
+                "tail": "6.5",
+                "tail_type": "Escala"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "tuvo profundidad de",
+                "tail": "70 km",
+                "tail_type": "Distancia"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "tuvo epicentro en",
+                "tail": "10 km al suroeste de la alcaldía de Tlalpan",
+                "tail_type": "Lugar"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "ocurrió en",
+                "tail": "20 de marzo de 2025",
+                "tail_type": "Fecha"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "ocurrió a las",
+                "tail": "jueves",
+                "tail_type": "Día"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "fue reportado por",
+                "tail": "Servicio Sismológico Nacional",
+                "tail_type": "Organización"
+            }
+        ]
+    },
+    {
+        "input": "Terremoto en Oaxaca: Un sismo de magnitud 5.8 se registró en el estado de Oaxaca este viernes 21 de marzo de 2025. El Servicio Sismológico Nacional reportó que el epicentro se localizó a 25 km al sureste de Salina Cruz, con una profundidad de 80 kilómetros. El temblor se sintió en varias regiones del estado y causó daños menores en algunas estructuras. Las autoridades locales están monitoreando la situación y no se han reportado víctimas hasta el momento.",
+        "output": [
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "ocurrió en",
+                "tail": "Oaxaca",
+                "tail_type": "Lugar"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "tuvo magnitud de",
+                "tail": "5.8",
+                "tail_type": "Escala"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "tuvo profundidad de",
+                "tail": "80 km",
+                "tail_type": "Distancia"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "tuvo epicentro en",
+                "tail": "25 km al sureste de Salina Cruz",
+                "tail_type": "Lugar"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "ocurrió en",
+                "tail": "21 de marzo de 2025",
+                "tail_type": "Fecha"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "ocurrió a las",
+                "tail": "viernes",
+                "tail_type": "Día"
+            },
+            {
+                "head": "terremoto",
+                "head_type": "Desastre natural",
+                "relation": "fue reportado por",
+                "tail": "Servicio Sismológico Nacional",
+                "tail_type": "Organización"
+            }
+        ]
+    }
+]
