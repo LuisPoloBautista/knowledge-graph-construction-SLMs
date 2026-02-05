@@ -120,3 +120,14 @@ df_tripletas.to_csv(output_filename, index=False)
 print(f"Archivo procesado y guardado en {output_filename}")
 ```
 
+The libraries to import are:
+
+
+```python
+import pandas as pd
+import gc
+import ollama
+import json
+```
+
+
