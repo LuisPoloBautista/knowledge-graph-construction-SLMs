@@ -17,3 +17,7 @@ The proposal is divided into nine sections:
 7) Experiment
 
 As shown in the following image
+
+<div align="center">
+    <img src="img/Semi-automatic.png" style="border-radius: 50 px;">
+</div>
